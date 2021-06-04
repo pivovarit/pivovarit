@@ -1,1 +1,6 @@
-![](https://github.com/pivovarit/pivovarit.github.io/raw/master/noone-expects.jpg)
+# Hello! I'm Grzegorz ('z's can be silent :) )
+
+- 
+
+## Work
+
