@@ -1,4 +1,4 @@
-![](./ukraine.png)
+![](./ukraine.svg)
 
 My blog - [{ 4Comprehension }](https://4comprehension.com)
 
