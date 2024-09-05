@@ -4,7 +4,7 @@
 
 ## [blog](https://4comprehension.com) | [linkedin](https://www.linkedin.com/in/gpiwowarek/) | [x](https://x.com/pivovarit)
 
-Ny name is [Grzegorz](https://youtu.be/JUFlIW_m33I), and I'm a classically trained engineer 👋
+My name is [Grzegorz](https://youtu.be/JUFlIW_m33I), and I'm a classically trained engineer 👋
 
 I am a [WarsawJUG](https://warszawa.jug.pl) leader, [vavr-io](https://github.com/vavr-io/vavr) project lead, [JDD](http://jdd.org.pl) and [4Developers](https://4developers.org.pl) program committee member. I delivered [over 140 conference talks](https://pivovarit.github.io/talks/), and over 80 hands-on workshops.
 
