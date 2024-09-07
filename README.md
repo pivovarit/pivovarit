@@ -13,7 +13,7 @@ I teach:
 - distributed systems
 - reactive programming
 - microservices
-- asynchronous programming in Java
+- [multithreading and asynchronous programming in Java](workshops/java-async-programming/workshop.md)
 - idiomatic Golang for Java developers
 - effective Spring Boot
 - effective Java
