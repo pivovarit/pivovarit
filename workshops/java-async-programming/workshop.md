@@ -1,6 +1,6 @@
 # Modern Multithreading and Asynchronous Programming in Java
 
-In this workshop, attendees will learn how to write modern, resilient, safe, efficient, and idiomatic multithreaded code in Java with full understanding of the fundamentals. We focus on **establishing competencies required to navigate the complex world of multithreading and asynchronous programming** in Java.
+In this workshop, attendees learn how to write modern, resilient, safe, efficient, and idiomatic multithreaded code in Java with full understanding of the fundamentals. We focus on **establishing competencies required to navigate the complex world of multithreading and asynchronous programming** in Java.
 
 Multithreading and asynchronicity are often shrouded in mystery, perceived as advanced topics with no definitive resource for mastering them. This is mostly because there's no central resource, no single book/course where you can obtain this knowledge.   
 

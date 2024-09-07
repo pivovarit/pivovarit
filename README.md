@@ -11,8 +11,8 @@ I am a [WarsawJUG](https://warszawa.jug.pl) leader, [vavr-io](https://github.com
 
 I teach:
 - distributed systems
-- reactive programming
-- microservices
+- [pragmatic reactive programming](workshops/pragmatic-reactive-programming/workshop.md)
+- pragmatic microservices
 - [multithreading and asynchronous programming in Java](workshops/java-async-programming/workshop.md)
 - idiomatic Golang for Java developers
 - effective Spring Boot
