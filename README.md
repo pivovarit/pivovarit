@@ -15,7 +15,7 @@ I teach:
 - pragmatic microservices
 - [multithreading and asynchronous programming in Java](workshops/java-async-programming/workshop.md)
 - idiomatic Golang for Java developers
-- effective Spring Boot
+- [effective Spring Boot](workshops/effective-spring/workshop.md)
 - effective Java
 - [contemporary Java](workshops/java-contemporary/workshop.md)
 
