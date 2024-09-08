@@ -17,6 +17,7 @@ I teach:
 - idiomatic Golang for Java developers
 - effective Spring Boot
 - effective Java
+- [contemporary Java](workshops/java-contemporary/workshop.md)
 
 <a href="mailto:contact@4comprehension.com">Reach out for a free training needs analysis!</a>
 
