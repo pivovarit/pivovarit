@@ -1,8 +1,8 @@
 # Contemporary Java Development
 
-In this course, attendees learn how to leverage modern Java 8+ features. This workshops can last anywhere between 1-5 days depending on the desired scope.
+In this course, attendees learn how to leverage modern Java 8+ features. These workshops can last anywhere between 1-5 days, depending on the desired scope.
 
-The workshop is modular and tailored to meet the specific needs of your team. We begin with a complimentary assessment to understand your goals and expectations, ensuring the content is aligned with your needs.
+The workshop is modular and tailored to meet your team's specific needs. We begin with a complimentary assessment to understand your goals and expectations and ensure the content is aligned with them.
 
 Key learning points:
 - JVM internal improvements
