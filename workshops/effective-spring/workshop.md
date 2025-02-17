@@ -13,7 +13,7 @@ Key learning points:
 - Unwanted coupling and how to avoid it
 - Replacing annotations with simple and predictable code
 - Fast and efficient developer profiles
-- Straightforward persistence with `JdbcTemplate`/`JdbcClient`
+- Straightforward persistence with `Jdbi/JdbcTemplate`/`JdbcClient`
 - Modular monoliths with Spring Modulith
 - Consumer-Driven Contracts with Spring Cloud Contract
 - Spring Webflux vs Virtual Threads
