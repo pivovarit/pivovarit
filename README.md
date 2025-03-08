@@ -19,6 +19,4 @@ I teach:
 - effective Java
 - [contemporary Java](workshops/java-contemporary/workshop.md)
 
-<a href="mailto:contact@4comprehension.com">Reach out for a free needs analysis!</a>
-
-
+<a href="mailto:contact@4comprehension.com">Is your training budget sitting idle? Reach out - it costs nothing</a>
