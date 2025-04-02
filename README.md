@@ -9,7 +9,7 @@ My name is [Grzegorz](https://youtu.be/JUFlIW_m33I), and I'm a classically-train
 I am a [WarsawJUG](https://warszawa.jug.pl) leader, [vavr-io](https://github.com/vavr-io/vavr) project lead, [Oracle ACE](https://apexapps.oracle.com/apex/ace/profile/pivovarit) ♠️, [JDD](http://jdd.org.pl) and [4Developers](https://4developers.org.pl) program committee member. I delivered [over 150 conference talks](https://pivovarit.github.io/talks/) and over 85 hands-on workshops. 
 
 
-I teach:
+I help companies tame their distributed systems and teach:
 - challenges of distributed systems
 - [pragmatic reactive programming](workshops/pragmatic-reactive-programming/workshop.md)
 - [effective microservices (with/without Spring Boot)](workshops/effective-microservices/workshop.md)
