@@ -17,5 +17,7 @@ Key learning points:
 - Modular monoliths with Spring Modulith
 - Consumer-Driven Contracts with Spring Cloud Contract
 - Spring Webflux vs Virtual Threads
+- Blackbox testing with Testcontainers (revised test pyramid)
+- The magic of dynamic proxies and how to avoid it
 
 <a href="mailto:contact@4comprehension.com">Reach out for a free training needs analysis!</a>
