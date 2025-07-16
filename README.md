@@ -10,13 +10,17 @@ I am a [WarsawJUG](https://warszawa.jug.pl) leader, [vavr-io](https://github.com
 
 
 I help companies tame their distributed systems and teach:
-- challenges of distributed systems
+- Challenges of distributed systems
 - [pragmatic reactive programming](workshops/pragmatic-reactive-programming/workshop.md)
 - [effective microservices (with/without Spring Boot)](workshops/effective-microservices/workshop.md)
 - [multithreading and asynchronous programming in Java](workshops/java-async-programming/workshop.md)
 - idiomatic Golang for Java developers
 - [effective Spring Boot](workshops/effective-spring/workshop.md)
-- effective Java
+- Effective Java
 - [contemporary Java](workshops/java-contemporary/workshop.md)
 
 <a href="mailto:contact@4comprehension.com">Is your training budget sitting idle? Reach out - it costs nothing</a>
+
+extras:
+- Free online QR code generator: [link](http://pivovarit.github.io/qr/)
+- Polish trading Sundays calendar: [link](https://pivovarit.github.io/handlowa/) 
