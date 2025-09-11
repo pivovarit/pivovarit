@@ -4,12 +4,13 @@ In this workshop, attendees learn how to write modern, resilient, safe, efficien
 
 Multithreading and asynchronicity are often shrouded in mystery, perceived as advanced topics with no definitive resource for mastering them. This is mostly because there's no central resource, no single book/course where you can obtain this knowledge.   
 
-The workshop is modular and tailored to meet the specific needs of your team. We begin with a complimentary assessment to understand your goals and expectations, ensuring the content is aligned with your needs.
+The workshop is modular and tailored to meet your team's specific needs. We begin with a complimentary assessment to understand your goals and expectations and ensure the content is aligned with them.
 
 Key learning points:
-- fundamentals of threading, including how to safely spawn/terminate a thread and allow JVM to exit gracefully
+- fundamentals of threading, including how to safely spawn/terminate a thread and allow the JVM to exit gracefully
 - architecture and importance of thread pools, including tuning and rejection strategies
-- the challenges of debugging asynchronous code and learn effective strategies for troubleshooting, monitoring and performance tuning
+- the challenges of debugging asynchronous code and learn effective strategies for troubleshooting, monitoring, and performance tuning
+- the magic of Java Memory Model
 - task cancellation, `InterruptedException`, and shutdown hooks
 - various types of concurrent queues
 - event loops, blocking/non-blocking I/O operations
@@ -17,8 +18,8 @@ Key learning points:
 - `ForkJoinPool` and the parallelization of CPU-bound tasks, and learn why parallel streams may not be ideal for production environments
 - the impact of context switching and how to minimize its overhead in multithreaded applications
 - efficient parallel collection processing
-- parallel Stream API, their downsides and why they may not be ideal for most production environments
-- idiomatic `CompletableFuture`s, their threading model, downsides and how to circumvent them
+- parallel Stream API, its downsides, and why it may not be ideal for most production environments
+- idiomatic `CompletableFuture`s, their threading model, downsides, and how to circumvent them
 - building asynchronous pipelines and handling complex workflows with `CompletableFuture`
 - virtual threads, parallelization of blocking operations, and common issues
 - understand the basics of reactive programming and when the investment may not be worthwhile
