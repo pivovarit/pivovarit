@@ -16,7 +16,7 @@ I help companies tame their distributed systems and teach:
 - [multithreading and asynchronous programming in Java](workshops/java-async-programming/workshop.md)
 - idiomatic Golang for Java developers
 - [effective Spring Boot](workshops/effective-spring/workshop.md)
-- Effective Java
+- Effective/Expert Programming Java
 - [contemporary Java](workshops/java-contemporary/workshop.md)
 
 <a href="mailto:contact@4comprehension.com">Is your training budget sitting idle? Reach out - it costs nothing</a>
