@@ -6,7 +6,7 @@
 
 My name is [Grzegorz](https://youtu.be/JUFlIW_m33I), and I'm a classically-trained engineer who helps companies build resilient and performant distributed systems 👋
 
-I am a [WarsawJUG](https://warszawa.jug.pl) leader, [vavr-io](https://github.com/vavr-io/vavr) project lead, [Oracle ACE](https://apexapps.oracle.com/apex/ace/profile/pivovarit) ♠️, [JDD](http://jdd.org.pl) and [4Developers](https://4developers.org.pl) program committee member. I delivered [over 150 conference talks](https://pivovarit.github.io/talks/) and over 85 hands-on workshops. 
+I am a [Java Champion](https://javachampions.org), [vavr-io](https://github.com/vavr-io/vavr) project lead, [WarsawJUG](https://warszawa.jug.pl) leader, [Oracle ACE](https://apexapps.oracle.com/apex/ace/profile/pivovarit) ♠️, [JDD](http://jdd.org.pl) and [4Developers](https://4developers.org.pl) program committee member. I delivered [over 150 conference talks](https://pivovarit.github.io/talks/) and over 85 hands-on workshops. 
 
 
 I help companies tame their distributed systems and teach:
