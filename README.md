@@ -15,7 +15,7 @@ I help companies tame their distributed systems and teach:
 - [pragmatic reactive programming](workshops/pragmatic-reactive-programming/workshop.md)
 - [effective microservices (with/without Spring Boot)](workshops/effective-microservices/workshop.md)
 - [multithreading and asynchronous programming in Java](workshops/java-async-programming/workshop.md)
-- idiomatic Golang for Java developers
+- [idiomatic Golang for Java developers](workshops/golang-for-java/workshop.md)
 - [pragmatic reactive programming](workshops/pragmatic-reactive-programming/workshop.md)
 - [effective Spring Boot](workshops/effective-spring/workshop.md)
 - Effective/Expert Programming Java
