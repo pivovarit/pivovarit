@@ -22,7 +22,3 @@ I help companies tame their distributed systems and teach:
 - [contemporary Java](workshops/java-contemporary/workshop.md)
 
 <a href="mailto:contact@4comprehension.com">Is your training budget sitting idle? Reach out - it costs nothing</a>
-
-extras:
-- Free online QR code generator: [link](http://pivovarit.github.io/qr/)
-- Polish trading Sundays calendar: [link](https://pivovarit.github.io/handlowa/) 
