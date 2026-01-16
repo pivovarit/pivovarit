@@ -10,12 +10,13 @@ I am a [Java Champion](https://javachampions.org), [vavr-io](https://github.com/
 
 
 I help companies tame their distributed systems and teach:
-- challenges of distributed systems
-- modular monoliths
+- [challenges of distributed systems](workshops/distributed-systems/workshop.md)
+- [modular monoliths](workshops/modular-monoliths/workshop.md)
 - [pragmatic reactive programming](workshops/pragmatic-reactive-programming/workshop.md)
 - [effective microservices (with/without Spring Boot)](workshops/effective-microservices/workshop.md)
 - [multithreading and asynchronous programming in Java](workshops/java-async-programming/workshop.md)
 - idiomatic Golang for Java developers
+- pragmatic reactive programming
 - [effective Spring Boot](workshops/effective-spring/workshop.md)
 - Effective/Expert Programming Java
 - [contemporary Java](workshops/java-contemporary/workshop.md)
