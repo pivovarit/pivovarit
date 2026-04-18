@@ -1,5 +1,8 @@
 ![](./banner.jpg)
 
+> **Architecture therapy for overengineered stacks.**
+> Helping teams unship the microservices they didn't need.
+
 ----
 
 ## [blog](https://4comprehension.com) | [linkedin](https://www.linkedin.com/in/gpiwowarek/) | [x](https://x.com/pivovarit)
@@ -16,7 +19,6 @@ I help companies tame their distributed systems and teach:
 - [effective microservices (with/without Spring Boot)](workshops/effective-microservices/workshop.md)
 - [multithreading and asynchronous programming in Java](workshops/java-async-programming/workshop.md)
 - [idiomatic Golang for Java developers](workshops/golang-for-java/workshop.md)
-- [pragmatic reactive programming](workshops/pragmatic-reactive-programming/workshop.md)
 - [effective Spring Boot](workshops/effective-spring/workshop.md)
 - Effective/Expert Programming Java
 - [contemporary Java](workshops/java-contemporary/workshop.md)
