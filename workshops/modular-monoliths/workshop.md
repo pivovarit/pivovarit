@@ -1,10 +1,12 @@
-# Building Maintainable and Scalable Monoliths 
+# Building Maintainable and Scalable Monoliths
 
 In this workshop, attendees learn how to build modular monoliths that scale in complexity, teams, and delivery speed without paying the full cost of distributed systems too early.
 
 Over the last decade, many organizations jumped from monoliths to Microservices to solve scaling and delivery problems. In practice, Microservices often introduce new challenges: operational overhead, distributed failures, data consistency issues, and many others (covered in Challenges of Distributed Systems workshop).
 
 A modular monolith is a powerful alternative: you keep a single deployable unit while enforcing strong internal boundaries, clear ownership, and independent evolution of modules. Done well, it delivers most of the benefits teams seek from Microservices - with far lower risk and complexity.
+
+The workshop is modular and tailored to meet the specific needs of your team. We begin with a complimentary assessment to understand your goals and expectations, ensuring the content is aligned with your needs.
 
 Key learning points:
 - Modularity: Monolith vs Modular Monolith vs Microservices

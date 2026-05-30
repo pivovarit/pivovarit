@@ -30,5 +30,3 @@ Key learning points:
 - Vector API
 
 <a href="mailto:contact@4comprehension.com">Reach out for a free training needs analysis!</a>
-
-

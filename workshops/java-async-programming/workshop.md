@@ -26,5 +26,3 @@ Key learning points:
 - modern Java syntax, including sneak-peek into preview features like _Structured Concurrency_ and `Gatherers.mapConcurrent`
 
 <a href="mailto:contact@4comprehension.com">Reach out for a free training needs analysis!</a>
-
-

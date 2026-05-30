@@ -24,3 +24,5 @@ Key learning points:
 - testing distributed systems: fault injection, network partitions, retries, and chaos-style experiments
 - coordination problems: leader election, locks, consensus basics, and when coordination becomes a bottleneck
 - operational hygiene and observability
+
+<a href="mailto:contact@4comprehension.com">Reach out for a free training needs analysis!</a>

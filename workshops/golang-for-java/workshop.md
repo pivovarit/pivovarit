@@ -58,4 +58,4 @@ The workshop is modular and tailored to meet your team’s specific needs. We be
 - Performance essentials: allocation/escape intuition, slices/maps pitfalls, `pprof` workflow
 - Migration playbook: mapping common Java patterns to Go equivalents (and when to drop them)
 
-<a href="mailto:contact@4comprehension.com">Reach out fo
+<a href="mailto:contact@4comprehension.com">Reach out for a free training needs analysis!</a>
